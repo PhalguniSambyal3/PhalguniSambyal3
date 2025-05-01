@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Phalguni Sambyal</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-<img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400">
+<img align="right" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://c.tenor.com/L93EFQFXF6wAAAAd/tenor.gif)" alt="coding" width="400">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=faizan-ahmad04&label=Profile%20views&color=0e75b6&style=flat](https://media1.tenor.com/m/L93EFQFXF6wAAAAd/anime-listening.gif)" alt="faizan-ahmad04" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PhalguniSambyal3&label=Profile%20views&color=0e75b6&style=flat" alt="PhalguniSambyal3" /> </p>
 
 - 🔭 I’m currently working in CodeGarage Tech pvt ltd. as **Full-Stack Developer (Ruby, Ruby on Rails, Vue.js, Chatwoot, Sidekiq, React.js)**
 
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1YTlS8bvmlEOd2ALdqzFBs-L_G1NE4gQ1wasmY2ISg5A/edit?usp=sharing](https://docs.google.com/document/d/1YTlS8bvmlEOd2ALdqzFBs-L_G1NE4gQ1wasmY2ISg5A/edit?usp=sharing)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwin-0007" alt="ashwin-0007" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PhalguniSambyal3" alt="PhalguniSambyal3" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
