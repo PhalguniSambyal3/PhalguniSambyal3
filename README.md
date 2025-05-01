@@ -4,7 +4,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan-ahmad04&label=Profile%20views&color=0e75b6&style=flat" alt="faizan-ahmad04" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=faizan-ahmad04&label=Profile%20views&color=0e75b6&style=flat](https://media1.tenor.com/m/L93EFQFXF6wAAAAd/anime-listening.gif)" alt="faizan-ahmad04" /> </p>
 
 - 🔭 I’m currently working in CodeGarage Tech pvt ltd. as **Full-Stack Developer (Ruby, Ruby on Rails, Vue.js, Chatwoot, Sidekiq, React.js)**
 
