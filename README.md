@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/121715823/235297659-e41a14e9-f31a-4155-9bd7-7e5347f4a4fb.png)
 <h1 align="center">Hi 👋, I'm Phalguni Sambyal</h1>
-<h3 align="center">A passionate Full-Stack MERN Developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
 <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400">
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Core Java, HTML, CSS, JavaScript, MongoDB, Ruby, Rails, Express.js, React.js, Node.js, C++**
 
-- 📫 How to reach me **faizanalvi093@gmail.com**
+- 📫 How to reach me **phalgunisambyal3@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1YTlS8bvmlEOd2ALdqzFBs-L_G1NE4gQ1wasmY2ISg5A/edit?usp=sharing](https://docs.google.com/document/d/1YTlS8bvmlEOd2ALdqzFBs-L_G1NE4gQ1wasmY2ISg5A/edit?usp=sharing)
 
